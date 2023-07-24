@@ -1,0 +1,15 @@
+# Blade Runner Grub Theme
+# Jude Shreffler, 2023
+
+title-text : "Deckard's Apartment, 10:30 PM"
+title-font : "Goudy Italic 16"
+message-font : "Goudy Regular 16"
+desktop-image : "background.png"
+
++ boot_menu {
+	item_font = "Goudy Regular 16"
+}
+
++ progress_bar {
+	font = "Goudy Regular 16"
+}
